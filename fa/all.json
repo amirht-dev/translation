@@ -284,7 +284,43 @@
       },
       "DANGER_ZONE_TITLE": "منطقه‌ی خطر",
       "IMPORT_EXPORT_TITLE": "واردات و صادرات",
-      "MY_PROFILE": "نمایهٔ من"
+      "MY_PROFILE": "نمایهٔ من",
+      "NAVIGATION_TITLE": "ناوبری",
+      "PRIVACY": {
+        "KEYWORDS": "حریم خصوصی",
+        "TITLE": "حریم خصوصی"
+      },
+      "PRIVACY_NOTE": "حریم خصوصی: <policyLink>سیاست حریم خصوصی</policyLink> ما را بخوانید، یا تنظیمات خود را در <hubLink>مرکز حریم خصوصی</hubLink> تغییر دهید.",
+      "PROFILE": {
+        "KEYWORDS": "نمایه کاربری شخصی"
+      },
+      "PROFILE_TITLE": "نمایه",
+      "SUPPORT": {
+        "TITLE": "پشتیبانی"
+      },
+      "SYNCING": {
+        "KEYWORDS": "اجبار به همگام سازی تصاویر و PDF ها",
+        "TITLE": "همگام سازی"
+      },
+      "VERSION": {
+        "KEYWORDS": "نسخه",
+        "TITLE": "نسخه برنامه"
+      }
+    },
+    "EARN_CREDIT": {
+      "APPLY_CREDIT": "اعمال ماه‌های رایگان شما",
+      "COPIED": "کپی شد!",
+      "COPYLINK": "کپی کردن لینک",
+      "CREATE_ACCOUNT": "یک حساب کاربری ایجاد کنید تا دوستان خود را دعوت کنید",
+      "ENTER_VALID_EMAIL": "ایمیل معتبر را وارد کنید!",
+      "FRIENDS_TITLE": "دوستان",
+      "FRIEND_ALREADY_ON_REMNOTE": "دوست شما از قبل در RemNote حضور دارد",
+      "INVITE": "دعوت کردن",
+      "INVITED_YOU": "(شما را دعوت کرد)",
+      "INVITE_COPIED": "لینک دعوت کپی شد!",
+      "INVITE_EMAIL": "دعوت از طریق ایمیل",
+      "INVITE_ERROR": "مشکلی پیش آمد. لطفاً بعداً دوباره تلاش کنید.",
+      "INVITE_FRIENDS_EARN_CREDIT": "وقتی کسی که دعوت کرده‌اید شروع به استفاده از RemNote کند، هر دوی شما یک ماه رایگان از RemNote Pro دریافت می‌کنید."
     }
   }
 }
